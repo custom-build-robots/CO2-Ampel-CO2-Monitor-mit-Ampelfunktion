@@ -17,3 +17,8 @@ Diese CO2 Ampel ist komplett nur aus den Einzelteilen wie SDC30 Sensor, NeoPixel
 Die Bauanleitung gibt es hier: https://www.byteyourlife.com/top-story/bauanleitung-co2-ampel-fuer-bessere-raumluft-selber-bauen/8430
 
 ![CO2-Ampel-DIY](https://www.byteyourlife.com/wp-content/uploads/2020/12/DIY_CO2_Ampel_Sensirion_SDC30_ESP8266_NodeMCU_NEOPixel_OLED_Display-1280x640.jpg)
+
+## Bauanleitung mit Bilderrahmen
+Die Bauanleitung der CO2 Ampel mit zwei NeoPixel Anzeigen in einem Bilderrahmen gibt es hier: https://www.byteyourlife.com/top-story/bauanleitung-co2-ampel-fuer-bessere-raumluft-im-bilderrahmen/8471
+
+![CO2-Ampel-DIY](https://www.byteyourlife.com/wp-content/uploads/2020/12/DIY_CO2_Ampel_Bilderrahmen-300x225.jpg)
